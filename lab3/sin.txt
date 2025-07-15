@@ -1,0 +1,601 @@
+start time=3
+end time=921
+for loop time=918
+1.010000
+1.029996
+1.049979
+1.069943
+1.089879
+1.109778
+1.129634
+1.149438
+1.169182
+1.188859
+1.208460
+1.227978
+1.247404
+1.266731
+1.285952
+1.305059
+1.324043
+1.342898
+1.361615
+1.380188
+1.398609
+1.416871
+1.434966
+1.452886
+1.470626
+1.488177
+1.505533
+1.522687
+1.539632
+1.556361
+1.572867
+1.589145
+1.605186
+1.620986
+1.636537
+1.651834
+1.666870
+1.681639
+1.696135
+1.710353
+1.724287
+1.737931
+1.751280
+1.764329
+1.777072
+1.789504
+1.801620
+1.813416
+1.824886
+1.836026
+1.846832
+1.857299
+1.867423
+1.877201
+1.886627
+1.895699
+1.904412
+1.912764
+1.920751
+1.928369
+1.935616
+1.942489
+1.948985
+1.955101
+1.960835
+1.966185
+1.971148
+1.975723
+1.979908
+1.983701
+1.987100
+1.990105
+1.992713
+1.994924
+1.996738
+1.998152
+1.999168
+1.999784
+2.000000
+1.999816
+1.999232
+1.998248
+1.996865
+1.995083
+1.992904
+1.990327
+1.987354
+1.983986
+1.980224
+1.976071
+1.971527
+1.966594
+1.961275
+1.955572
+1.949486
+1.943020
+1.936177
+1.928960
+1.921371
+1.913413
+1.905091
+1.896406
+1.887362
+1.877964
+1.868215
+1.858118
+1.847678
+1.836899
+1.825785
+1.814341
+1.802571
+1.790480
+1.778073
+1.765355
+1.752331
+1.739005
+1.725384
+1.711473
+1.697278
+1.682803
+1.668056
+1.653041
+1.637765
+1.622234
+1.606454
+1.590431
+1.574172
+1.557684
+1.540972
+1.524044
+1.506907
+1.489567
+1.472031
+1.454306
+1.436399
+1.418318
+1.400069
+1.381661
+1.363100
+1.344393
+1.325549
+1.306575
+1.287478
+1.268266
+1.248947
+1.229528
+1.210017
+1.190423
+1.170752
+1.151013
+1.131213
+1.111361
+1.091465
+1.071532
+1.051570
+1.031587
+1.011592
+0.991593
+0.971596
+0.951612
+0.931646
+0.911708
+0.891805
+0.871945
+0.852137
+0.832388
+0.812705
+0.793098
+0.773573
+0.754139
+0.734804
+0.715574
+0.696458
+0.677464
+0.658599
+0.639870
+0.621285
+0.602852
+0.584577
+0.566469
+0.548534
+0.530780
+0.513213
+0.495841
+0.478671
+0.461709
+0.444963
+0.428439
+0.412143
+0.396082
+0.380263
+0.364692
+0.349375
+0.334318
+0.319527
+0.305009
+0.290769
+0.276812
+0.263144
+0.249772
+0.236699
+0.223932
+0.211475
+0.199333
+0.187512
+0.176016
+0.164849
+0.154016
+0.143522
+0.133370
+0.123565
+0.114111
+0.105011
+0.096268
+0.087888
+0.079872
+0.072224
+0.064947
+0.058045
+0.051519
+0.045372
+0.039608
+0.034227
+0.029233
+0.024627
+0.020411
+0.016587
+0.013156
+0.010120
+0.007480
+0.005237
+0.003392
+0.001946
+0.000898
+0.000251
+0.000003
+0.000155
+0.000707
+0.001659
+0.003010
+0.004760
+0.006908
+0.009453
+0.012395
+0.015731
+0.019462
+0.023584
+0.028097
+0.032999
+0.038287
+0.043960
+0.050016
+0.056451
+0.063264
+0.070452
+0.078011
+0.085940
+0.094233
+0.102889
+0.111904
+0.121275
+0.130996
+0.141066
+0.151478
+0.162231
+0.173318
+0.184736
+0.196480
+0.208545
+0.220927
+0.233621
+0.246621
+0.259923
+0.273520
+0.287408
+0.301582
+0.316034
+0.330760
+0.345754
+0.361009
+0.376520
+0.392281
+0.408284
+0.424525
+0.440995
+0.457689
+0.474600
+0.491721
+0.509045
+0.526566
+0.544276
+0.562168
+0.580236
+0.598471
+0.616867
+0.635417
+0.654112
+0.672945
+0.691909
+0.710997
+0.730200
+0.749511
+0.768922
+0.788426
+0.808014
+0.827679
+0.847413
+0.867208
+0.887056
+0.906949
+0.926880
+0.946840
+0.966821
+0.986815
+1 Period Complete
+sin time=53556
+sin start time=105
+sin end time=53661
+
+
+
+//////////////////////////using rad += 0.01
+start time=3
+end time=921
+for loop time=918
+radians=0.000000, sin value=1.000000
+radians=0.100000, sin value=1.099833
+radians=0.200000, sin value=1.198669
+radians=0.300000, sin value=1.295520
+radians=0.400000, sin value=1.389418
+radians=0.500000, sin value=1.479426
+radians=0.600000, sin value=1.564642
+radians=0.700000, sin value=1.644218
+radians=0.800000, sin value=1.717356
+radians=0.900000, sin value=1.783327
+radians=1.000000, sin value=1.841471
+radians=1.100000, sin value=1.891207
+radians=1.200000, sin value=1.932039
+radians=1.300000, sin value=1.963558
+radians=1.400000, sin value=1.985450
+radians=1.500000, sin value=1.997495
+radians=1.600000, sin value=1.999574
+radians=1.700000, sin value=1.991665
+radians=1.800000, sin value=1.973848
+radians=1.900000, sin value=1.946300
+radians=2.000000, sin value=1.909297
+radians=2.100000, sin value=1.863209
+radians=2.200000, sin value=1.808496
+radians=2.300000, sin value=1.745705
+radians=2.400000, sin value=1.675463
+radians=2.500000, sin value=1.598472
+radians=2.600000, sin value=1.515501
+radians=2.700000, sin value=1.427380
+radians=2.800000, sin value=1.334988
+radians=2.900000, sin value=1.239249
+radians=3.000000, sin value=1.141120
+radians=3.100000, sin value=1.041581
+radians=3.200000, sin value=0.941626
+radians=3.300000, sin value=0.842254
+radians=3.400000, sin value=0.744459
+radians=3.500000, sin value=0.649217
+radians=3.600000, sin value=0.557480
+radians=3.700000, sin value=0.470164
+radians=3.800000, sin value=0.388142
+radians=3.900000, sin value=0.312234
+radians=4.000000, sin value=0.243198
+radians=4.100000, sin value=0.181723
+radians=4.200000, sin value=0.128424
+radians=4.300000, sin value=0.083834
+radians=4.400000, sin value=0.048398
+radians=4.500000, sin value=0.022470
+radians=4.600000, sin value=0.006309
+radians=4.700000, sin value=0.000077
+radians=4.800000, sin value=0.003835
+radians=4.900000, sin value=0.017547
+radians=5.000000, sin value=0.041076
+radians=5.100000, sin value=0.074185
+radians=5.200000, sin value=0.116545
+radians=5.300000, sin value=0.167733
+radians=5.400000, sin value=0.227236
+radians=5.500000, sin value=0.294460
+radians=5.600000, sin value=0.368733
+radians=5.700000, sin value=0.449314
+radians=5.800000, sin value=0.535398
+radians=5.900000, sin value=0.626123
+radians=6.000000, sin value=0.720585
+radians=6.100000, sin value=0.817837
+radians=6.200000, sin value=0.916911   //// ~~~rad = 2pi
+radians=6.300000, sin value=1.016814
+radians=6.400000, sin value=1.116549
+radians=6.500000, sin value=1.215120
+radians=6.600000, sin value=1.311541
+radians=6.700000, sin value=1.404850
+radians=6.800000, sin value=1.494113
+radians=6.900000, sin value=1.578440
+radians=7.000000, sin value=1.656987
+radians=7.100000, sin value=1.728969
+radians=7.200000, sin value=1.793668
+radians=7.300000, sin value=1.850437
+radians=7.400000, sin value=1.898708
+radians=7.500000, sin value=1.938000
+radians=7.600000, sin value=1.967920
+radians=7.700000, sin value=1.988168
+radians=7.800000, sin value=1.998543
+radians=7.900000, sin value=1.998941
+radians=8.000000, sin value=1.989358
+1 Period Complete
+sin time=39244
+sin start time=101
+sin end time=39345
+
+
+freq = 1
+
+
+
+
+
+
+//////////////////////// rad += 0.05
+start time=3
+end time=921
+for loop time=918
+radians=0.000000, sin value=1.000000
+radians=0.250000, sin value=1.247404
+radians=0.500000, sin value=1.479426
+radians=0.750000, sin value=1.681639
+radians=1.000000, sin value=1.841471
+radians=1.250000, sin value=1.948985
+radians=1.500000, sin value=1.997495
+radians=1.750000, sin value=1.983986
+radians=2.000000, sin value=1.909297
+radians=2.250000, sin value=1.778073
+radians=2.500000, sin value=1.598472
+radians=2.750000, sin value=1.381661
+radians=3.000000, sin value=1.141120
+radians=3.250000, sin value=0.891805
+radians=3.500000, sin value=0.649217
+radians=3.750000, sin value=0.428439
+radians=4.000000, sin value=0.243198
+radians=4.250000, sin value=0.105011
+radians=4.500000, sin value=0.022470
+radians=4.750000, sin value=0.000707
+radians=5.000000, sin value=0.041076
+radians=5.250000, sin value=0.141066
+radians=5.500000, sin value=0.294460
+radians=5.750000, sin value=0.491721
+radians=6.000000, sin value=0.720585
+radians=6.250000, sin value=0.966821
+radians=6.500000, sin value=1.215120
+radians=6.750000, sin value=1.450044
+radians=7.000000, sin value=1.656987
+radians=7.250000, sin value=1.823081
+radians=7.500000, sin value=1.938000
+radians=7.750000, sin value=1.994599
+radians=8.000000, sin value=1.989358
+1 Period Complete
+sin time=28228
+sin start time=101
+sin end time=28329
+
+
+
+
+
+///////////////////////////rad += 0.1
+start time=3
+end time=921
+for loop time=918
+radians=0.000000, sin value=1.000000
+radians=0.200000, sin value=1.198669
+radians=0.400000, sin value=1.389418
+radians=0.600000, sin value=1.564642
+radians=0.800000, sin value=1.717356
+radians=1.000000, sin value=1.841471
+radians=1.200000, sin value=1.932039
+radians=1.400000, sin value=1.985450
+radians=1.600000, sin value=1.999574
+radians=1.800000, sin value=1.973848
+radians=2.000000, sin value=1.909297
+radians=2.200000, sin value=1.808496
+radians=2.400000, sin value=1.675463
+radians=2.600000, sin value=1.515501
+radians=2.800000, sin value=1.334988
+radians=3.000000, sin value=1.141120
+radians=3.200000, sin value=0.941626
+radians=3.400000, sin value=0.744459
+radians=3.600000, sin value=0.557480
+radians=3.800000, sin value=0.388142
+radians=4.000000, sin value=0.243198
+radians=4.200000, sin value=0.128424
+radians=4.400000, sin value=0.048398
+radians=4.600000, sin value=0.006309
+radians=4.800000, sin value=0.003835
+radians=5.000000, sin value=0.041076
+radians=5.200000, sin value=0.116545
+radians=5.400000, sin value=0.227236
+radians=5.600000, sin value=0.368733
+radians=5.800000, sin value=0.535398
+radians=6.000000, sin value=0.720585
+radians=6.200000, sin value=0.916911
+radians=6.400000, sin value=1.116549
+radians=6.600000, sin value=1.311541
+radians=6.800000, sin value=1.494113
+radians=7.000000, sin value=1.656987
+radians=7.200000, sin value=1.793668
+radians=7.400000, sin value=1.898708
+radians=7.600000, sin value=1.967920
+radians=7.800000, sin value=1.998543
+radians=8.000000, sin value=1.989358
+1 Period Complete
+sin time=32094
+sin start time=101
+sin end time=32195
+
+
+
+///////////////rad += 0.5
+start time=3
+end time=919
+for loop time=916
+radians=0.000000, sin value=1.000000
+radians=0.500000, sin value=1.479426
+radians=1.000000, sin value=1.841471
+radians=1.500000, sin value=1.997495
+radians=2.000000, sin value=1.909297
+radians=2.500000, sin value=1.598472
+radians=3.000000, sin value=1.141120
+radians=3.500000, sin value=0.649217
+radians=4.000000, sin value=0.243198
+radians=4.500000, sin value=0.022470
+radians=5.000000, sin value=0.041076
+radians=5.500000, sin value=0.294460
+radians=6.000000, sin value=0.720585
+radians=6.500000, sin value=1.215120
+radians=7.000000, sin value=1.656987
+radians=7.500000, sin value=1.938000
+1 Period Complete
+sin time=5740
+sin start time=99
+sin end time=5839
+
+
+
+
+
+
+/////////////////// rad += 0.01 , print every 0.15 (15)
+start time=3
+end time=921
+for loop time=918
+radians=0.000000, sin value=1.000000
+radians=0.150000, sin value=1.149438
+radians=0.300000, sin value=1.295520
+radians=0.450000, sin value=1.434966
+radians=0.600000, sin value=1.564642
+radians=0.750000, sin value=1.681639
+radians=0.900000, sin value=1.783327
+radians=1.050000, sin value=1.867423
+radians=1.200000, sin value=1.932039
+radians=1.350000, sin value=1.975723
+radians=1.500000, sin value=1.997495
+radians=1.650000, sin value=1.996865
+radians=1.800000, sin value=1.973848
+radians=1.950000, sin value=1.928960
+radians=2.100000, sin value=1.863209
+radians=2.250000, sin value=1.778073
+radians=2.400000, sin value=1.675463
+radians=2.550000, sin value=1.557684
+radians=2.700000, sin value=1.427380
+radians=2.850000, sin value=1.287478
+radians=3.000000, sin value=1.141120
+radians=3.150000, sin value=0.991593
+radians=3.300000, sin value=0.842254
+radians=3.450000, sin value=0.696458
+radians=3.600000, sin value=0.557480
+radians=3.750000, sin value=0.428439
+radians=3.900000, sin value=0.312234
+radians=4.050000, sin value=0.211475
+radians=4.200000, sin value=0.128424
+radians=4.350000, sin value=0.064947
+radians=4.500000, sin value=0.022470
+radians=4.650000, sin value=0.001946
+radians=4.800000, sin value=0.003835
+radians=4.950000, sin value=0.028097
+radians=5.100000, sin value=0.074185
+radians=5.250000, sin value=0.141066
+radians=5.400000, sin value=0.227236
+radians=5.550000, sin value=0.330760
+radians=5.700000, sin value=0.449314
+radians=5.850000, sin value=0.580236
+radians=6.000000, sin value=0.720585
+radians=6.150000, sin value=0.867208
+radians=6.300000, sin value=1.016814
+1 Period Complete
+sin time=13404
+sin start time=101
+sin end time=13505
