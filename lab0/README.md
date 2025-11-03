@@ -10,6 +10,6 @@ This lab introduces the STM32 Nucleo development platform and the embedded toolc
 - Used HAL (Hardware Abstraction Layer) initialization functions (HAL_Init, SystemClock_Config, MX_GPIO_Init) to configure peripherals
 - Implemented UART serial communication to print messages from the board to the PC terminal (through Hercules)
 
-![Nucleo User LEDs blinking](https://github.com/pietrea2/STM32-Embedded-Projects/tree/main/lab0/images/leds.jpg)
+![Nucleo User LEDs blinking](https://github.com/pietrea2/STM32-Embedded-Projects/blob/main/lab0/images/leds.jpg)
 
-![Printing to COM using Hercules](https://github.com/pietrea2/STM32-Embedded-Projects/tree/main/lab0/images/hercules_uart_printf.png)
+![Printing to COM using Hercules](https://github.com/pietrea2/STM32-Embedded-Projects/blob/main/lab0/images/hercules_uart_printf.png)
